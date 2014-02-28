@@ -53,4 +53,4 @@ Question: How about the font styles?
 	- Pandoc to convert TXT files to a PDF file that has different
 	  font styles.
 
-<!-- vim:set tw=70 wrap spell ft=mkd -->
+<!-- vim:set tw=70 wrap spell ft=mkd: -->
