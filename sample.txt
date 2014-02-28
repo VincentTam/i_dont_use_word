@@ -19,9 +19,9 @@ Otherwise, I can do nothing to help.
   Microsoft make money?
 - You need to wait for a while for Word to load.
 - It's possible that Word fails to process your file properly, due to:
-  - Encoding error
-  - Runtime error
-  - Other errors
+	- Encoding error
+	- Runtime error
+	- Other errors
 
 # Using plain text (TXT) files
 
@@ -41,16 +41,16 @@ Question: How about the font styles?
 # Conclusion
 
 - Microsoft Word
-  - Inefficient
-  - Susceptible to errors
-  - Skills can be outdated after several years
-  - Need to pay for the license
-  - Need to pay for *another* license after several years
+	- Inefficient
+	- Susceptible to errors
+	- Skills can be outdated after several years
+	- Need to pay for the license
+	- Need to pay for *another* license after several years
 
 - TXT files and markdown
-  - Easy to open
-  - Easy to write
-  - Pandoc to convert TXT files to a PDF file that has different font
-	styles.
+	- Easy to open
+	- Easy to write
+	- Pandoc to convert TXT files to a PDF file that has different
+	  font styles.
 
 <!-- vim:set tw=70 wrap spell ft=mkd -->
