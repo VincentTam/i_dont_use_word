@@ -1,0 +1,30 @@
+% I don't use Microsoft Word!
+% Vincent Tam
+% 29 Feb, 2014
+
+# Introduction
+
+Who am I?  This is an unnumbered list showing part of my answers.
+Before that, I would like to see how a paragraph looks like in
+pandoc's output.  I really hope that this paragraph is not too long.
+Otherwise, I can do nothing to help.
+
+- I'm a Linux user.
+- I'm a free software supporter.
+- I love text editing with Vim!
+
+# Microsoft Word is *not* your friend!
+
+- If you are satisfied by the current version of Word, how can
+  Microsoft make money?
+- You need to wait for a while for Word to load.
+- It's possible that Word fails to process your file properly, due to:
+  - Encoding error
+  - Runtime error
+  - Other errors
+
+# Using plain text files
+
+- Notepad seldom causes a computer to hang.
+
+<!-- vim:set tw=70 wrap spell ft=mkd -->
