@@ -1,0 +1,4 @@
+README
+====
+
+Don't read this file.  Read `sample.txt` instead.
