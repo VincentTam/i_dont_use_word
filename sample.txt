@@ -26,5 +26,15 @@ Otherwise, I can do nothing to help.
 # Using plain text files
 
 - Notepad seldom causes a computer to hang.
+- Notepad load text files quickly.
+
+Question: How about the font styles?
+
+# Use markdown
+
+1. It's simple to write.
+2. You can create **bolded** and *italicized* fonts.
+3. Editing without leaving the keyboard is efficient.
+4. Finding and clicking the right buttons for a numbered list is slow.
 
 <!-- vim:set tw=70 wrap spell ft=mkd -->
