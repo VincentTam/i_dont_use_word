@@ -23,10 +23,10 @@ Otherwise, I can do nothing to help.
   - Runtime error
   - Other errors
 
-# Using plain text files
+# Using plain text (TXT) files
 
 - Notepad seldom causes a computer to hang.
-- Notepad load text files quickly.
+- Notepad load files quickly.
 
 Question: How about the font styles?
 
@@ -36,5 +36,21 @@ Question: How about the font styles?
 2. You can create **bolded** and *italicized* fonts.
 3. Editing without leaving the keyboard is efficient.
 4. Finding and clicking the right buttons for a numbered list is slow.
+5. Use pandoc to get a PDF file for your boss.
+
+# Conclusion
+
+- Microsoft Word
+  - Inefficient
+  - Susceptible to errors
+  - Skills can be outdated after several years
+  - Need to pay for the license
+  - Need to pay for *another* license after several years
+
+- TXT files and markdown
+  - Easy to open
+  - Easy to write
+  - Pandoc to convert TXT files to a PDF file that has different font
+	styles.
 
 <!-- vim:set tw=70 wrap spell ft=mkd -->
