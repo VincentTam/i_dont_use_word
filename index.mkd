@@ -73,4 +73,8 @@ show `git status`.
 
 	![vim command for the handout](pandoc_pdf2.png)
 
+Note: The items in the nested list need to be indented by **4**
+spaces, instead of **2**.  i.e. The above screenshots are **wrong**,
+and `sample.txt` on the `master` branch is **correct**.
+
 <!-- vim:set tw=70 wrap: -->
