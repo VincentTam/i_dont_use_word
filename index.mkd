@@ -1,0 +1,76 @@
+Project page for [i_dont_use_word](https://github.com/VincentTam/i_dont_use_word)
+====
+
+Reasons for not using Microsoft Office
+----
+
+1. I don't like writing documents with Microsoft Word.
+2. I don't like making slides with Microsoft PowerPoint.
+3. I don't have much money for Microsoft.
+4. Many Microsoft Office skills will be outdated in several years.
+
+Why do I write documents with pandoc?
+----
+
+1. Tools are free.
+2. I enjoy using Vim to edit text.
+3. Skills are independent of platforms and are valid over a long
+period of time.
+
+Sample output
+----
+
+Here are some demo files.
+
+#. Slides: [sample_beamer.pdf](sample_beamer.pdf)
+#. Handout: [sample_pdf.pdf](sample_pdf.pdf)
+
+Screenshots
+----
+
+They show what I've actually done on Linux.
+
+1. Open the editor
+
+	![Vim 7.4](vi_editor.png)
+
+2. Use [fugitive.vim](https://github.com/tpope/vim-fugitive) to
+show `git status`.
+
+	![fugitive.vim](fugitive1.png)
+
+3. Use the same plugin to `git commit`
+
+	![fugitive.vim commit](fugitive_commit1.png)
+
+4. Use the same plugin to view the log.
+
+	![fugitive.vim commit](fugitive_log1.png)
+
+	![fugitive.vim commit](fugitive_log2.png)
+
+5. Another way to commit
+
+	![fugitive.vim commit short](fugitive_commit2.png) 
+
+6. Find the contents in a file.
+
+	![grep](find_text.png)
+
+7. View the log again.
+
+	![git log](git_log.png)
+
+8. Prepare the slides
+
+	![vim command for the slides](pandoc_beamer1.png)
+
+	![vim command for the slides](pandoc_beamer2.png)
+
+9. Prepare the handout
+
+	![vim command for the handout](pandoc_pdf1.png)
+
+	![vim command for the handout](pandoc_pdf2.png)
+
+<!-- vim:set tw=70 wrap: -->
