@@ -1,4 +1,4 @@
 README
 ====
 
-Don't read this file.  Read `sample.txt` instead.
+*Don't* read this file.  Read `sample.txt` instead.
